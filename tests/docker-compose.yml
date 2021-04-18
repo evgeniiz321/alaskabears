@@ -1,0 +1,6 @@
+version: '2'
+services:
+  alaska:
+    image: "azshoo/alaska:1.0"
+    ports:
+      - "8091:8091"
